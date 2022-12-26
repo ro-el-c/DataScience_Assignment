@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*.zip
+.ipynb_checkpoints/
+*.xlsx
+*.code-workspace
+__pycache__/
+*.docx
+.idea/
+5. Web Data Collection/제출문서/
